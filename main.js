@@ -79,6 +79,4 @@ const getUserChoice = userInput => {
     playGame()
     
     
-    
-    console.log(getUserChoice('rock'));
-    console.log(getUserChoice('computer'));
+  
